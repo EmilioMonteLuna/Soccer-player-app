@@ -56,13 +56,7 @@ This project demonstrates modern full-stack development skills by implementing a
 ## 📱 **Screenshots**
 
 ### Main Dashboard
-![Dashboard showing player statistics and search functionality]
-
-### Add/Edit Player Form
-![Modal form for adding and editing player information]
-
-### Player Cards with Statistics
-![Grid layout showing player cards with goals and assists]
+![Website Screenshot](./soccweb.png)
 
 ## 🚀 **Getting Started**
 
